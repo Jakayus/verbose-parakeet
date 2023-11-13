@@ -4,7 +4,7 @@ name: docc
 #2
 on:
   push:
-    branches: [method_build_script]
+    branches: [main]
   workflow_dispatch:
 
 #3
@@ -26,7 +26,7 @@ jobs:
           fetch-depth: 0
       #4
       - name: Run Build Docs
-        run: ./AppDocTest/build-docc.sh
+        run: ./build-docc.sh
       #5
       - name: Setup Pages
         id: pages
