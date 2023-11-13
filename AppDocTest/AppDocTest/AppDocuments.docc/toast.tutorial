@@ -1,0 +1,26 @@
+@Tutorial(time: 4) {
+    @Intro(title: "Creating Toast") {
+        Tutorial on creating Toast
+        
+        @Image(source: toast.jpg, alt: "slice of toast with butter on it on top of a plate on a kitchen table")
+    }
+    
+    @Section(title: "Toast Instructions") {
+        @ContentAndMedia {
+            Straightforward method of getting toast
+            
+        }
+        
+        @Steps {
+            @Step {
+                Put Toast in Toaster
+                
+            }
+            
+            @Step {
+                Take Toast out and put butter
+                
+            }
+        }
+    }
+}

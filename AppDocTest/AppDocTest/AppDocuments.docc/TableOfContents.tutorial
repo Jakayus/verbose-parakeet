@@ -1,0 +1,12 @@
+@Tutorials(name: "Table of Contents") {
+    @Intro(title: "Introduction Sample") {
+        Intro to the tutorials goes here!
+        
+    }
+    
+    @Chapter(name: "Chapter 1 Sample") {
+        Chapter 1!
+        
+        @TutorialReference(tutorial: "doc:toast")
+    }
+}
