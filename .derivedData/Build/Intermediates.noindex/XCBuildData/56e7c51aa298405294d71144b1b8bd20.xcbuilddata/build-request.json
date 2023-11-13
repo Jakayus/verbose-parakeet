@@ -1,0 +1,63 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildOnly"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "35f4f665d0657f7bbba8a56dfea38c3ca2816c15460372e6ec5a648be2992aab"
+    }
+  ],
+  "containerPath" : "/Users/joelsereno/Local_Repos/Repositories/verbose-parakeet/AppDocTest.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "docbuild",
+    "activeArchitecture" : "undefined_arch",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : true,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator17.0",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "i386",
+        "x86_64"
+      ],
+      "targetArchitecture" : "undefined_arch"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/joelsereno/Local_Repos/Repositories/verbose-parakeet/.derivedData/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/joelsereno/Local_Repos/Repositories/verbose-parakeet/.derivedData/Build/Products",
+      "derivedDataPath" : "/Users/joelsereno/Local_Repos/Repositories/verbose-parakeet/.derivedData",
+      "indexDataStoreFolderPath" : "/Users/joelsereno/Local_Repos/Repositories/verbose-parakeet/.derivedData/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/joelsereno/Local_Repos/Repositories/verbose-parakeet/.derivedData/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/joelsereno/Local_Repos/Repositories/verbose-parakeet/.derivedData/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "ACTION" : "docbuild",
+          "COLOR_DIAGNOSTICS" : "YES",
+          "diagnostic_message_length" : "184",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
