@@ -1,0 +1,12 @@
+{
+  "source": "/Users/joelsereno/Local_Repos/Repositories/verbose-parakeet/AppDocTest/AppDocTest/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Hello, world!"
+      }
+    ]
+  },
+  "version": 1
+}
