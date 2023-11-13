@@ -1,5 +1,7 @@
 ##!/bin/sh
 
+cd AppDocTest
+
 xcrun xcodebuild docbuild \
     -scheme AppDocTest \
     -destination 'generic/platform=iOS Simulator' \

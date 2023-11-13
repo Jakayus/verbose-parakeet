@@ -1,38 +1,38 @@
 {
   "" : {
-    "diagnostics" : "/Users/joelsereno/Local_Repos/Repositories/verbose-parakeet/AppDocTest/.derivedData/Build/Intermediates.noindex/AppDocTest.build/Debug-iphonesimulator/AppDocTest.build/Objects-normal/arm64/AppDocTest-master.dia",
-    "emit-module-dependencies" : "/Users/joelsereno/Local_Repos/Repositories/verbose-parakeet/AppDocTest/.derivedData/Build/Intermediates.noindex/AppDocTest.build/Debug-iphonesimulator/AppDocTest.build/Objects-normal/arm64/AppDocTest-master-emit-module.d",
-    "emit-module-diagnostics" : "/Users/joelsereno/Local_Repos/Repositories/verbose-parakeet/AppDocTest/.derivedData/Build/Intermediates.noindex/AppDocTest.build/Debug-iphonesimulator/AppDocTest.build/Objects-normal/arm64/AppDocTest-master-emit-module.dia",
-    "swift-dependencies" : "/Users/joelsereno/Local_Repos/Repositories/verbose-parakeet/AppDocTest/.derivedData/Build/Intermediates.noindex/AppDocTest.build/Debug-iphonesimulator/AppDocTest.build/Objects-normal/arm64/AppDocTest-master.swiftdeps"
+    "diagnostics" : "/Users/joelsereno/repos/verbose-parakeet/AppDocTest/.derivedData/Build/Intermediates.noindex/AppDocTest.build/Debug-iphonesimulator/AppDocTest.build/Objects-normal/arm64/AppDocTest-master.dia",
+    "emit-module-dependencies" : "/Users/joelsereno/repos/verbose-parakeet/AppDocTest/.derivedData/Build/Intermediates.noindex/AppDocTest.build/Debug-iphonesimulator/AppDocTest.build/Objects-normal/arm64/AppDocTest-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/joelsereno/repos/verbose-parakeet/AppDocTest/.derivedData/Build/Intermediates.noindex/AppDocTest.build/Debug-iphonesimulator/AppDocTest.build/Objects-normal/arm64/AppDocTest-master-emit-module.dia",
+    "swift-dependencies" : "/Users/joelsereno/repos/verbose-parakeet/AppDocTest/.derivedData/Build/Intermediates.noindex/AppDocTest.build/Debug-iphonesimulator/AppDocTest.build/Objects-normal/arm64/AppDocTest-master.swiftdeps"
   },
-  "/Users/joelsereno/Local_Repos/Repositories/verbose-parakeet/AppDocTest/.derivedData/Build/Intermediates.noindex/AppDocTest.build/Debug-iphonesimulator/AppDocTest.build/DerivedSources/GeneratedAssetSymbols.swift" : {
-    "const-values" : "/Users/joelsereno/Local_Repos/Repositories/verbose-parakeet/AppDocTest/.derivedData/Build/Intermediates.noindex/AppDocTest.build/Debug-iphonesimulator/AppDocTest.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
-    "dependencies" : "/Users/joelsereno/Local_Repos/Repositories/verbose-parakeet/AppDocTest/.derivedData/Build/Intermediates.noindex/AppDocTest.build/Debug-iphonesimulator/AppDocTest.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
-    "diagnostics" : "/Users/joelsereno/Local_Repos/Repositories/verbose-parakeet/AppDocTest/.derivedData/Build/Intermediates.noindex/AppDocTest.build/Debug-iphonesimulator/AppDocTest.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+  "/Users/joelsereno/repos/verbose-parakeet/AppDocTest/.derivedData/Build/Intermediates.noindex/AppDocTest.build/Debug-iphonesimulator/AppDocTest.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/joelsereno/repos/verbose-parakeet/AppDocTest/.derivedData/Build/Intermediates.noindex/AppDocTest.build/Debug-iphonesimulator/AppDocTest.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/joelsereno/repos/verbose-parakeet/AppDocTest/.derivedData/Build/Intermediates.noindex/AppDocTest.build/Debug-iphonesimulator/AppDocTest.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/joelsereno/repos/verbose-parakeet/AppDocTest/.derivedData/Build/Intermediates.noindex/AppDocTest.build/Debug-iphonesimulator/AppDocTest.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
     "index-unit-output-path" : "/AppDocTest.build/Debug-iphonesimulator/AppDocTest.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
-    "llvm-bc" : "/Users/joelsereno/Local_Repos/Repositories/verbose-parakeet/AppDocTest/.derivedData/Build/Intermediates.noindex/AppDocTest.build/Debug-iphonesimulator/AppDocTest.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
-    "object" : "/Users/joelsereno/Local_Repos/Repositories/verbose-parakeet/AppDocTest/.derivedData/Build/Intermediates.noindex/AppDocTest.build/Debug-iphonesimulator/AppDocTest.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
-    "swift-dependencies" : "/Users/joelsereno/Local_Repos/Repositories/verbose-parakeet/AppDocTest/.derivedData/Build/Intermediates.noindex/AppDocTest.build/Debug-iphonesimulator/AppDocTest.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
-    "swiftmodule" : "/Users/joelsereno/Local_Repos/Repositories/verbose-parakeet/AppDocTest/.derivedData/Build/Intermediates.noindex/AppDocTest.build/Debug-iphonesimulator/AppDocTest.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+    "llvm-bc" : "/Users/joelsereno/repos/verbose-parakeet/AppDocTest/.derivedData/Build/Intermediates.noindex/AppDocTest.build/Debug-iphonesimulator/AppDocTest.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/joelsereno/repos/verbose-parakeet/AppDocTest/.derivedData/Build/Intermediates.noindex/AppDocTest.build/Debug-iphonesimulator/AppDocTest.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/joelsereno/repos/verbose-parakeet/AppDocTest/.derivedData/Build/Intermediates.noindex/AppDocTest.build/Debug-iphonesimulator/AppDocTest.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/joelsereno/repos/verbose-parakeet/AppDocTest/.derivedData/Build/Intermediates.noindex/AppDocTest.build/Debug-iphonesimulator/AppDocTest.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
   },
-  "/Users/joelsereno/Local_Repos/Repositories/verbose-parakeet/AppDocTest/AppDocTest/AppDocTestApp.swift" : {
-    "const-values" : "/Users/joelsereno/Local_Repos/Repositories/verbose-parakeet/AppDocTest/.derivedData/Build/Intermediates.noindex/AppDocTest.build/Debug-iphonesimulator/AppDocTest.build/Objects-normal/arm64/AppDocTestApp.swiftconstvalues",
-    "dependencies" : "/Users/joelsereno/Local_Repos/Repositories/verbose-parakeet/AppDocTest/.derivedData/Build/Intermediates.noindex/AppDocTest.build/Debug-iphonesimulator/AppDocTest.build/Objects-normal/arm64/AppDocTestApp.d",
-    "diagnostics" : "/Users/joelsereno/Local_Repos/Repositories/verbose-parakeet/AppDocTest/.derivedData/Build/Intermediates.noindex/AppDocTest.build/Debug-iphonesimulator/AppDocTest.build/Objects-normal/arm64/AppDocTestApp.dia",
+  "/Users/joelsereno/repos/verbose-parakeet/AppDocTest/AppDocTest/AppDocTestApp.swift" : {
+    "const-values" : "/Users/joelsereno/repos/verbose-parakeet/AppDocTest/.derivedData/Build/Intermediates.noindex/AppDocTest.build/Debug-iphonesimulator/AppDocTest.build/Objects-normal/arm64/AppDocTestApp.swiftconstvalues",
+    "dependencies" : "/Users/joelsereno/repos/verbose-parakeet/AppDocTest/.derivedData/Build/Intermediates.noindex/AppDocTest.build/Debug-iphonesimulator/AppDocTest.build/Objects-normal/arm64/AppDocTestApp.d",
+    "diagnostics" : "/Users/joelsereno/repos/verbose-parakeet/AppDocTest/.derivedData/Build/Intermediates.noindex/AppDocTest.build/Debug-iphonesimulator/AppDocTest.build/Objects-normal/arm64/AppDocTestApp.dia",
     "index-unit-output-path" : "/AppDocTest.build/Debug-iphonesimulator/AppDocTest.build/Objects-normal/arm64/AppDocTestApp.o",
-    "llvm-bc" : "/Users/joelsereno/Local_Repos/Repositories/verbose-parakeet/AppDocTest/.derivedData/Build/Intermediates.noindex/AppDocTest.build/Debug-iphonesimulator/AppDocTest.build/Objects-normal/arm64/AppDocTestApp.bc",
-    "object" : "/Users/joelsereno/Local_Repos/Repositories/verbose-parakeet/AppDocTest/.derivedData/Build/Intermediates.noindex/AppDocTest.build/Debug-iphonesimulator/AppDocTest.build/Objects-normal/arm64/AppDocTestApp.o",
-    "swift-dependencies" : "/Users/joelsereno/Local_Repos/Repositories/verbose-parakeet/AppDocTest/.derivedData/Build/Intermediates.noindex/AppDocTest.build/Debug-iphonesimulator/AppDocTest.build/Objects-normal/arm64/AppDocTestApp.swiftdeps",
-    "swiftmodule" : "/Users/joelsereno/Local_Repos/Repositories/verbose-parakeet/AppDocTest/.derivedData/Build/Intermediates.noindex/AppDocTest.build/Debug-iphonesimulator/AppDocTest.build/Objects-normal/arm64/AppDocTestApp~partial.swiftmodule"
+    "llvm-bc" : "/Users/joelsereno/repos/verbose-parakeet/AppDocTest/.derivedData/Build/Intermediates.noindex/AppDocTest.build/Debug-iphonesimulator/AppDocTest.build/Objects-normal/arm64/AppDocTestApp.bc",
+    "object" : "/Users/joelsereno/repos/verbose-parakeet/AppDocTest/.derivedData/Build/Intermediates.noindex/AppDocTest.build/Debug-iphonesimulator/AppDocTest.build/Objects-normal/arm64/AppDocTestApp.o",
+    "swift-dependencies" : "/Users/joelsereno/repos/verbose-parakeet/AppDocTest/.derivedData/Build/Intermediates.noindex/AppDocTest.build/Debug-iphonesimulator/AppDocTest.build/Objects-normal/arm64/AppDocTestApp.swiftdeps",
+    "swiftmodule" : "/Users/joelsereno/repos/verbose-parakeet/AppDocTest/.derivedData/Build/Intermediates.noindex/AppDocTest.build/Debug-iphonesimulator/AppDocTest.build/Objects-normal/arm64/AppDocTestApp~partial.swiftmodule"
   },
-  "/Users/joelsereno/Local_Repos/Repositories/verbose-parakeet/AppDocTest/AppDocTest/ContentView.swift" : {
-    "const-values" : "/Users/joelsereno/Local_Repos/Repositories/verbose-parakeet/AppDocTest/.derivedData/Build/Intermediates.noindex/AppDocTest.build/Debug-iphonesimulator/AppDocTest.build/Objects-normal/arm64/ContentView.swiftconstvalues",
-    "dependencies" : "/Users/joelsereno/Local_Repos/Repositories/verbose-parakeet/AppDocTest/.derivedData/Build/Intermediates.noindex/AppDocTest.build/Debug-iphonesimulator/AppDocTest.build/Objects-normal/arm64/ContentView.d",
-    "diagnostics" : "/Users/joelsereno/Local_Repos/Repositories/verbose-parakeet/AppDocTest/.derivedData/Build/Intermediates.noindex/AppDocTest.build/Debug-iphonesimulator/AppDocTest.build/Objects-normal/arm64/ContentView.dia",
+  "/Users/joelsereno/repos/verbose-parakeet/AppDocTest/AppDocTest/ContentView.swift" : {
+    "const-values" : "/Users/joelsereno/repos/verbose-parakeet/AppDocTest/.derivedData/Build/Intermediates.noindex/AppDocTest.build/Debug-iphonesimulator/AppDocTest.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/joelsereno/repos/verbose-parakeet/AppDocTest/.derivedData/Build/Intermediates.noindex/AppDocTest.build/Debug-iphonesimulator/AppDocTest.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/joelsereno/repos/verbose-parakeet/AppDocTest/.derivedData/Build/Intermediates.noindex/AppDocTest.build/Debug-iphonesimulator/AppDocTest.build/Objects-normal/arm64/ContentView.dia",
     "index-unit-output-path" : "/AppDocTest.build/Debug-iphonesimulator/AppDocTest.build/Objects-normal/arm64/ContentView.o",
-    "llvm-bc" : "/Users/joelsereno/Local_Repos/Repositories/verbose-parakeet/AppDocTest/.derivedData/Build/Intermediates.noindex/AppDocTest.build/Debug-iphonesimulator/AppDocTest.build/Objects-normal/arm64/ContentView.bc",
-    "object" : "/Users/joelsereno/Local_Repos/Repositories/verbose-parakeet/AppDocTest/.derivedData/Build/Intermediates.noindex/AppDocTest.build/Debug-iphonesimulator/AppDocTest.build/Objects-normal/arm64/ContentView.o",
-    "swift-dependencies" : "/Users/joelsereno/Local_Repos/Repositories/verbose-parakeet/AppDocTest/.derivedData/Build/Intermediates.noindex/AppDocTest.build/Debug-iphonesimulator/AppDocTest.build/Objects-normal/arm64/ContentView.swiftdeps",
-    "swiftmodule" : "/Users/joelsereno/Local_Repos/Repositories/verbose-parakeet/AppDocTest/.derivedData/Build/Intermediates.noindex/AppDocTest.build/Debug-iphonesimulator/AppDocTest.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+    "llvm-bc" : "/Users/joelsereno/repos/verbose-parakeet/AppDocTest/.derivedData/Build/Intermediates.noindex/AppDocTest.build/Debug-iphonesimulator/AppDocTest.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/joelsereno/repos/verbose-parakeet/AppDocTest/.derivedData/Build/Intermediates.noindex/AppDocTest.build/Debug-iphonesimulator/AppDocTest.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/joelsereno/repos/verbose-parakeet/AppDocTest/.derivedData/Build/Intermediates.noindex/AppDocTest.build/Debug-iphonesimulator/AppDocTest.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/joelsereno/repos/verbose-parakeet/AppDocTest/.derivedData/Build/Intermediates.noindex/AppDocTest.build/Debug-iphonesimulator/AppDocTest.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
   }
 }
