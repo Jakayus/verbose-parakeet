@@ -11,4 +11,4 @@ This is a sample documentation project.
 ### Essentials
 
 - Article: <doc:SampleArticle>
-
+- Tutorial: <doc:TableOfContents>
