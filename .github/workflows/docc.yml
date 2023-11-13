@@ -4,7 +4,7 @@ name: docc
 #2
 on:
   push:
-    branches: [main]
+    branches: [method_build_script]
   workflow_dispatch:
 
 #3
