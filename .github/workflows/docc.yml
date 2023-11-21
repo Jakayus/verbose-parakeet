@@ -27,10 +27,10 @@ jobs:
       - name: Build Documentation
         run: |
           xcodebuild docbuild\
+            -allowProvisioningUpdates \
             -scheme AppDocTest\
             -destination 'generic/platform=iOS'\
-            -derivedDataPath ../DerivedData\
-            -allowProvisioningUpdates
+            -derivedDataPath ../DerivedData
       - name: Process Archive
         run: |
           mkdir _site
