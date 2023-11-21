@@ -8,8 +8,6 @@ permissions:
   pages: write
   id-token: write
   contents: read
- env:
-   DEVELOPER_DIR: /Applications/Xcode_15.0.app/Contents/Developer
 
 #1
 jobs:
