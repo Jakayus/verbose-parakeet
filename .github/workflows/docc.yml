@@ -27,6 +27,7 @@ jobs:
             -scheme AppDocTest\
             -destination 'generic/platform=iOS'\
             -derivedDataPath ../DerivedData
+            -allowProvisioningUpdates
       - name: Process Archive
         run: |
           mkdir _site
