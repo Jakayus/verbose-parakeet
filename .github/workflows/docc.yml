@@ -1,6 +1,7 @@
 name: docc
 on:
   workflow_dispatch:
+   branches: [main, ymal_test]
 permissions:
   contents: read
   pages: write
