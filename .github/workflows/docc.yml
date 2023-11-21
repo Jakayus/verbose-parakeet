@@ -1,4 +1,4 @@
-name: Deploy Documentation
+name: docc
 on:
   workflow_dispatch:
 permissions:
