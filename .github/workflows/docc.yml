@@ -1,8 +1,17 @@
 name: docc
+
+#2
 on:
-  workflow_dispatch:
   push:
-    branches: [main, ymal_test]
+    branches: [main, ymal_tests]
+  workflow_dispatch:
+
+#3
+permissions:
+  pages: write
+  id-token: write
+  contents: read
+
 permissions:
   contents: read
   pages: write
