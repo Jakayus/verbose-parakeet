@@ -13,6 +13,7 @@ permissions:
   id-token: write
   contents: read
 concurrency:
+  group: "pages"
   cancel-in-progress: true
 env:
   DEVELOPER_DIR: /Applications/Xcode_15.0.app/Contents/Developer
