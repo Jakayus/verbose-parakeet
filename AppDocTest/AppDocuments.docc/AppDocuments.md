@@ -6,7 +6,10 @@ AppDocTest Documentation!
 
 This is a sample documentation project.
 
-## Examples
+## Topics
+
+### Essentials
+- <doc:TableOfContents>
 
 This is an example statement.
 
