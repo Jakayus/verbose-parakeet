@@ -20,6 +20,8 @@ jobs:
       - uses: maxim-lobanov/setup-xcode@v1
         with:
           xcode-version: "15.0.1"
+      - name: make dir
+        run: mkdir _site
       - name: Run Build Docs
         run: ./build-docc.sh
       - name: Setup Pages
