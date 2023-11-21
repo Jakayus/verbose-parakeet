@@ -1,5 +1,5 @@
 @Tutorial(time: 4) {
-    @Intro(title: "Creating Toast") {
+    @Intro(title: "toast") {
         Tutorial on creating Toast
         
         @Image(source: toast.jpg, alt: "slice of toast with butter on it on top of a plate on a kitchen table")

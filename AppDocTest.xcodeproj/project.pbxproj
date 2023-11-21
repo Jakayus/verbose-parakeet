@@ -34,6 +34,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		DC546B192B0C842600A4F5DF /* AppDoc */ = {
+			isa = PBXGroup;
+			children = (
+				DC786FCC2B01AEF7004118E4 /* AppDocuments.docc */,
+			);
+			path = AppDoc;
+			sourceTree = "<group>";
+		};
 		DC786FB22B01AEB1004118E4 = {
 			isa = PBXGroup;
 			children = (
@@ -53,11 +61,11 @@
 		DC786FBD2B01AEB1004118E4 /* AppDocTest */ = {
 			isa = PBXGroup;
 			children = (
+				DC546B192B0C842600A4F5DF /* AppDoc */,
 				DC786FBE2B01AEB1004118E4 /* AppDocTestApp.swift */,
 				DC786FC02B01AEB1004118E4 /* ContentView.swift */,
 				DC786FC22B01AEB2004118E4 /* Assets.xcassets */,
 				DC786FC42B01AEB2004118E4 /* Preview Content */,
-				DC786FCC2B01AEF7004118E4 /* AppDocuments.docc */,
 			);
 			path = AppDocTest;
 			sourceTree = "<group>";

@@ -1,5 +1,5 @@
-@Tutorials(name: "Table of Contents") {
-    @Intro(title: "Introduction Sample") {
+@Tutorials(name: "AppDocuments") {
+    @Intro(title: "TableOfContents") {
         Intro to the tutorials goes here!
         
     }
