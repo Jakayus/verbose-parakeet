@@ -12,10 +12,6 @@ permissions:
   id-token: write
   contents: read
 
-permissions:
-  contents: read
-  pages: write
-  id-token: write
 env:
   DEVELOPER_DIR: /Applications/Xcode_15.0.app/Contents/Developer
 jobs:
