@@ -1,14 +1,12 @@
 name: docc
 on:
   workflow_dispatch:
-   branches: [main, ymal_test]
+  push:
+    branches: [main, ymal_test]
 permissions:
   contents: read
   pages: write
   id-token: write
-concurrency:
-  group: "pages"
-  cancel-in-progress: true
 env:
   DEVELOPER_DIR: /Applications/Xcode_15.0.app/Contents/Developer
 jobs:
