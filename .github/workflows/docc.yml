@@ -27,8 +27,8 @@ jobs:
         uses: actions/configure-pages@v3
       - name: Create Custom index.html
         run: |
-          rm .docs/index.html
-          cat > .docs/index.html <<- EOM
+          rm _site/index.html
+          cat > _site/index.html <<- EOM
           <!DOCTYPE html>
           <html>
             <head>
