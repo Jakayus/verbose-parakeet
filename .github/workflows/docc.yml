@@ -1,8 +1,8 @@
-name: docc
+name: docc2
 
 on:
   push:
-    branches: [main]
+    branches: [main, yaml_part2]
   workflow_dispatch:
 permissions:
   pages: write
@@ -15,6 +15,7 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
         with:
+          submodules: recursive
           fetch-depth: 0
       - uses: maxim-lobanov/setup-xcode@v1
         with:
@@ -24,10 +25,23 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v3
+        - name: Create Custom index.html
+        run: |
+          rm .docs/index.html
+          cat > .docs/index.html <<- EOM
+          <!DOCTYPE html>
+          <html>
+            <head>
+              <meta http-equiv="refresh" content="0; url='https://jakayus.github.io/verbose-parakeet/documentation/appdoctest/'" />
+            </head>
+           <body>
+              <p>Please follow <a href="https://jakayus.github.io/documentation/appdoctest/">this link</a>.</p>
+            </body>
+          </html>
+          EOM
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
-        with:
-          path: .docs
+
 
   deploy:
     runs-on: ubuntu-latest
